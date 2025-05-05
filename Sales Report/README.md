@@ -45,7 +45,7 @@ The following custom DAX calculations were created to support insights:
 ## 📁 Files Included
 
 - `Sales Dashboard.pbix` – Power BI dashboard file  
-- '/Dashboards'[https://github.com/eltonjunior84/PowerBI-Projects/tree/6b6711239661e03a672ba063c20e28976e3176b6/Sales%20Report/Dashboards] folder – Contains the four `.csv` files used as data sources  
+- (/Dashboards)[https://github.com/eltonjunior84/PowerBI-Projects/tree/6b6711239661e03a672ba063c20e28976e3176b6/Sales%20Report/Dashboards] folder – Contains the four `.csv` files used as data sources  
 - `README.md` – This documentation
 
 ## 🚀 How to Use
