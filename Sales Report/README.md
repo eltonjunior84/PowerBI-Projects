@@ -28,8 +28,7 @@ The data model is built from **four separate `.csv` files**:
 
 Data preparation was done in Power Query, including:
 - Data cleaning and type transformations
-- Merging related tables
-- Creating a date table for filtering and time-based analysis
+- Removal of duplicates was crucial in order to elaborate the Star Schema an then establish the relationship structure, an important step for Power BI to successfully link data from different tables.
 
 ## 📐 Key Metrics & DAX Measures
 
@@ -46,7 +45,7 @@ The following custom DAX calculations were created to support insights:
 ## 📁 Files Included
 
 - `Sales Dashboard.pbix` – Power BI dashboard file  
-- `data/` folder – Contains the four `.csv` files used as data sources  
+- `Sales Report/Dashboards` folder – Contains the four `.csv` files used as data sources  
 - `README.md` – This documentation
 
 ## 🚀 How to Use
